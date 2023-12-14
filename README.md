@@ -39,8 +39,3 @@ If you'd like to contribute to the project, follow these steps:
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and submit a pull request.
 
-Please follow the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md) in all your interactions with the project.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
